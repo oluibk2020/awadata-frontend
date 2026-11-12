@@ -4,7 +4,7 @@ The AwaData Commons frontend is a browser-based proof of concept for a
 community-governed mental-health research data commons. It demonstrates how
 individual consent and community governance can jointly control access to
 synthetic research data. The frontend connects to the separate
-[AwaData Commons API](../base-api/README.md).
+[AwaData Commons API](https://github.com/oluibk2020/awadata-api.git).
 
 > **Important:** This is a synthetic-data proof of concept, not a production
 > platform, clinical system, or legal-compliance certification. Do not use it
@@ -49,7 +49,7 @@ and data operations; hiding a frontend screen is not an authorization control.
 - Node.js 20.9 or newer
 - npm
 - The AwaData Commons API running separately for sign-in and data workflows;
-  consult the [API setup guide](../base-api/README.md) for its database and
+  consult the [API setup guide](https://github.com/oluibk2020/awadata-api.git) for its database and
   environment requirements
 
 ## Local development
